@@ -2,6 +2,8 @@ github.com/stewelarend/logger v0.0.0-20210505181125-8425be1c01a2 h1:oK10uPdyosEH
 github.com/stewelarend/logger v0.0.0-20210505181125-8425be1c01a2/go.mod h1:9N9cjtsb9vHO+Noy17MDNMmH4fL1jBpGJ2HIxQyljvo=
 github.com/stewelarend/logger v0.0.1 h1:1SG1ZTz2VlPevGzJN5nEmegeBD2q/JzwejVR+ID9cSs=
 github.com/stewelarend/logger v0.0.1/go.mod h1:9N9cjtsb9vHO+Noy17MDNMmH4fL1jBpGJ2HIxQyljvo=
+github.com/stewelarend/logger v0.0.2-0.20210527194720-308ba4de2f2f h1:ucKdYHrEl1nuDi/0XzyLtnwOPcuG5ssA+28THSfkx2g=
+github.com/stewelarend/logger v0.0.2-0.20210527194720-308ba4de2f2f/go.mod h1:9N9cjtsb9vHO+Noy17MDNMmH4fL1jBpGJ2HIxQyljvo=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=

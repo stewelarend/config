@@ -7,7 +7,7 @@ import (
 	"github.com/stewelarend/logger"
 )
 
-var log = logger.New("env-source").WithLevel(logger.LevelError)
+var log = logger.New()
 
 func init() {
 	config.AddSource(envSource{})

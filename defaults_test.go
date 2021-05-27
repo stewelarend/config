@@ -9,7 +9,7 @@ import (
 	"github.com/stewelarend/config/source/static"
 )
 
-//var log = logger.New("values").WithLevel(logger.LevelDebug)
+//var log = logger.New().WithLevel(logger.LevelDebug)
 
 func TestDefaults(t *testing.T) {
 	t.Logf("Testing defaults...")

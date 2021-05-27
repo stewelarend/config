@@ -11,7 +11,7 @@ import (
 	"github.com/stewelarend/logger"
 )
 
-var log = logger.New("source")
+var log = logger.New()
 
 type ISource interface {
 	//get a key-value pair from this source
